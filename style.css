@@ -1,0 +1,100 @@
+.lear{
+    border: solid;
+    position: absolute;
+    border-radius: 500px 500px 200px 200px;
+    height: 250px;
+    width: 180px;
+    margin-left: 10px;
+    background-color: pink;
+    
+}
+.rear{
+    border: solid;
+    position: absolute;
+    border-radius: 500px 500px 200px 200px;
+    height: 250px;
+    width: 180px;
+    margin-left: 210px;
+    background-color: pink;
+    
+}
+    
+
+.face{
+    border: solid;
+    border-radius: 200px;
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    position: absolute;
+}
+.leye{
+    border: solid white;
+    border-radius: 50px;
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    margin-top: 80px;
+    margin-left: 50px;
+    background-color: white;
+}
+.innerleye{
+    border: solid;
+    border-radius: 50px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: black;
+}
+.reye{
+    border: solid white ;
+    border-radius: 50px;
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    margin-left: 245px;
+    margin-top: 80px;
+    background-color: white;
+}
+.innerreye{
+    border: solid;
+    border-radius: 50px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: black;
+}
+.mouth{
+    border: solid;
+    border-radius: 50px;
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 95px;
+    background-color: red;
+}
+.m1{
+    border: solid;
+    position: absolute;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 15px;
+    background-color: black;
+}
+.m2{
+    border: solid;
+    position: absolute;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    margin-left: 130px;
+    margin-top: 12px;
+    background-color: black;
+}
